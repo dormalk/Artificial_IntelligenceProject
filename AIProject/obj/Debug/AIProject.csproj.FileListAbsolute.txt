@@ -1,0 +1,7 @@
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\bin\Debug\AIProject.exe.config
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\bin\Debug\AIProject.exe
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\obj\Debug\AIProject.csprojResolveAssemblyReference.cache
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\obj\Debug\AIProject.csproj.CoreCompileInputs.cache
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\obj\Debug\AIProject.exe
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\AIProject\obj\Debug\AIProject.pdb

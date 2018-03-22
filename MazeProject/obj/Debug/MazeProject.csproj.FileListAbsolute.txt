@@ -1,0 +1,12 @@
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.csprojResolveAssemblyReference.cache
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.csproj.CoreCompileInputs.cache
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\MazeProject.exe.config
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\MazeProject.exe
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\MazeProject.pdb
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\AIProject.exe
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\AIProject.pdb
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\bin\Debug\AIProject.exe.config
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.exe
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.pdb
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.MazeWindow.resources
+C:\Users\dorma\source\repos\ArtificialIntelligenceProject\MazeProject\obj\Debug\MazeProject.csproj.GenerateResource.Cache
